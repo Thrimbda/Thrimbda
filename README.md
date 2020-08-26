@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Siyuan Wang (<C1> for short and pronunciation), it's nice that you have come.
+
 [![Thrimbda's github stats](https://github-readme-stats.vercel.app/api?username=thrimbda&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
