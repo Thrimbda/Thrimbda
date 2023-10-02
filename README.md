@@ -2,7 +2,7 @@
 
 My name is Siyuan Wang (**C1** for short and pronunciation), it's nice that you have come.
 
-[![Thrimbda's github stats](https://github-readme-stats.vercel.app/api?username=thrimbda&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
 
 <!--
 **Thrimbda/Thrimbda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
