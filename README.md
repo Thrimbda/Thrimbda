@@ -2,7 +2,9 @@
 
 My name is Siyuan Wang (**C1** for short and pronunciation), it's nice that you have come.
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <a href="https://github.com/Thrimbda.com"><img src="https://github.com/Thrimbda/Thrimbda/raw/master/github-metrics.svg"></a>
+</p>
 
 <!--
 **Thrimbda/Thrimbda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
