@@ -3,7 +3,7 @@
 My name is Siyuan Wang (**C1** for short and pronunciation), it's nice that you have come.
 
 <p align="center">
-  <a href="https://github.com/Thrimbda.com"><img src="https://github.com/Thrimbda/Thrimbda/raw/master/github-metrics.svg"></a>
+  <a href="https://github.com/Thrimbda"><img src="https://github.com/Thrimbda/Thrimbda/raw/master/github-metrics.svg"></a>
 </p>
 
 <!--
