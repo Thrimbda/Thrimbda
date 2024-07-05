@@ -27,5 +27,5 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_days: 30
           plugin_rss: yes
-          plugin_rss_source: https://blog.thrimbda.com/atom.xml
+          plugin_rss_source: https://0xc1.space/atom.xml
           plugin_rss_limit: 4
